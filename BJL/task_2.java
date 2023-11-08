@@ -1,7 +1,8 @@
+package BJL;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-class task_2{
+public class task_2{
 
     public static void main(String []args){
         float grade1, grade2, grade3;

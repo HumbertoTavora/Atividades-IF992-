@@ -1,7 +1,8 @@
+package BJL;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-class task_1{
+public class task_1{
 
     public static void main(String []args){
         int num1, num2, num3, num4;

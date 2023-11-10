@@ -1,4 +1,4 @@
-package BJL;
+package BJL.SEQ;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

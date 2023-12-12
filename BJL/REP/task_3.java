@@ -8,6 +8,7 @@ public class task_3 {
 
         do{
             Scanner scnr = new Scanner(System.in);
+            System.out.println("Insira um numero:");
             input = scnr.nextInt();
             
             if(input > 0){
